@@ -1,0 +1,6 @@
+testdb_backup.backup
+myenv/
+__pycache__/
+*.DS_Store
+*.log
+node_modules/
